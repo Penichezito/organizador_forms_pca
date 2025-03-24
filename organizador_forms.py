@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-"""
-Script moderno para reorganizar dados de projetos de CSV para Excel.
-Utiliza abordagens eficientes do pandas sem usar loops for explícitos.
-"""
-
 import pandas as pd
 import os
 import re
